@@ -1,0 +1,29 @@
+﻿<Window x:Class="Presentacion.WpfEditarComponentesCreador"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="WpfEditarComponentesCreador" Height="266" Width="602">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="1"/>
+                <GradientStop Color="#FFBED84B"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="btn_Modificar" Content="Modificar" HorizontalAlignment="Left" Margin="317,194,0,0" VerticalAlignment="Top" Width="106" Click="btn_Modificar_Click"/>
+        <TextBox x:Name="txb_CodigoEspecial" HorizontalAlignment="Left" Height="23" Margin="278,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" RenderTransformOrigin="0.664,-0.063"/>
+        <Label Content="Digite su código especial:" HorizontalAlignment="Left" Margin="80,42,0,0" VerticalAlignment="Top"/>
+        <Label Content="Inserte el código de su hardware:" HorizontalAlignment="Left" Margin="40,101,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txb_CodigoHardware" HorizontalAlignment="Left" Height="23" Margin="278,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <Button x:Name="btn_Volver" Content="Atras" HorizontalAlignment="Left" Margin="96,194,0,0" VerticalAlignment="Top" Width="87" Click="btn_Volver_Click"/>
+        <RadioButton x:Name="rdb_3horas" Content="3 horas" HorizontalAlignment="Left" Margin="263,158,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rdb_6horas" Content="6 horas" HorizontalAlignment="Left" Margin="338,158,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rdb_12horas" Content="12 horas" HorizontalAlignment="Left" Margin="414,158,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rdb_24horas" Content="24 horas" HorizontalAlignment="Left" Margin="495,158,0,0" VerticalAlignment="Top"/>
+        <Label Content="Inserte cuanta horas diarias va a usar:" HorizontalAlignment="Left" Margin="18,147,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

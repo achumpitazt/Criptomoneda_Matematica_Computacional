@@ -1,0 +1,13 @@
+1.- Tener instalado el "SQL Server Management Studio 2019" y el "VisualStudio" con los programas necesarios para programar en "C#"
+2.- Conectarte a tu data base local del SQL server.
+3.- Abrir el archivo "dbSimulador4.sql" (que lo llevará al programa SQL Server) y ejecutarlo (o, presionar f5)
+4.- Ejecular Solution Trabajo ParcialVer 1.0.sln en la carpeta: "Solution TrabajoParcialVer1.1"
+6.- Compilar. 
+
+¡Disfrútelo!
+
+Se le está enviando: 
+1 archivo en PDF con el informe.
+1 archivo PDF con las diapositiva que se usarán en la primera presentación
+1 archivo sql
+1 win rar con una parte implementada con el proyecto. 

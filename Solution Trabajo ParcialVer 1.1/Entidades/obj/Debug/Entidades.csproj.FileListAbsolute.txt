@@ -1,0 +1,23 @@
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\bin\Debug\Entidades.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\bin\Debug\Entidades.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Entidades\bin\Debug\Entidades.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Entidades\bin\Debug\Entidades.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Entidades\obj\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Entidades\bin\Debug\Entidades.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Entidades\obj\Debug\Entidades.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Entidades\obj\Debug\Entidades.pdb

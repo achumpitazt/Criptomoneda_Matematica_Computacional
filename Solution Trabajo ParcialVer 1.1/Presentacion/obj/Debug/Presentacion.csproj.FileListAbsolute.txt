@@ -1,0 +1,258 @@
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Entidades.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Negocio.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Datos.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Datos.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevoCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfSesionCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\App.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevoCreador.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfSesionCreador.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\InterfazCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\InterfazCreador.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfCreador.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevaCriptomoneda.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevaCriptomoneda.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentesCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarContraseñaCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarEmailCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentesCreador.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarContraseñaCreador.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarEmailCreador.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfBilleteraCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarDatosCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfBilleteraCreador.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarDatosCreador.baml
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarNombreCreador.g.cs
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarNombreCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Entidades.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Negocio.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Datos.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Datos.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\InterfazCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfBilleteraCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentesCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarContraseñaCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarDatosCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarEmailCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarNombreCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevaCriptomoneda.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevoCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfSesionCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\App.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\InterfazCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfBilleteraCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentesCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarContraseñaCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarDatosCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarEmailCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarNombreCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevaCriptomoneda.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevoCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfSesionCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfTransferencia.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfTransferencia.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfRedesSociales.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfRedesSociales.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentes.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentes.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfRecibo.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfVentaCriptomoneda.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfRecibo.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfVentaCriptomoneda.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Presentacion.exe
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Presentacion.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Entidades.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Negocio.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Datos.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Entidades.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Negocio.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\bin\Debug\Datos.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\InterfazCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\MainWindow.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfBilleteraCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentes.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentesCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarContraseñaCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarDatosCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarEmailCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarNombreCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevaCriptomoneda.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevoCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfRecibo.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfRedesSociales.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfSesionCreador.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfTransferencia.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfVentaCriptomoneda.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\App.g.cs
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\InterfazCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\MainWindow.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfBilleteraCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentes.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarComponentesCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarContraseñaCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarDatosCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarEmailCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfEditarNombreCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevaCriptomoneda.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfNuevoCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfRecibo.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfRedesSociales.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfSesionCreador.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfTransferencia.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\WpfVentaCriptomoneda.baml
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.g.resources
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.exe
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Entidades.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Negocio.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Datos.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Datos.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\InterfazCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfBilleteraCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarComponentes.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarComponentesCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarContraseñaCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarDatosCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarEmailCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarNombreCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfNuevaCriptomoneda.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfNuevoCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfRecibo.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfRedesSociales.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfSesionCreador.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfTransferencia.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfVentaCriptomoneda.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\App.g.cs
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\InterfazCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfBilleteraCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarComponentes.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarComponentesCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarContraseñaCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarDatosCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarEmailCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarNombreCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfNuevaCriptomoneda.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfNuevoCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfRecibo.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfRedesSociales.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfSesionCreador.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfTransferencia.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfVentaCriptomoneda.baml
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Entidades.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Negocio.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Datos.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\bin\Debug\Datos.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\InterfazCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfBilleteraCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarComponentes.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarComponentesCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarContraseñaCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarDatosCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarEmailCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarNombreCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfNuevaCriptomoneda.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfNuevoCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfRecibo.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfRedesSociales.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfSesionCreador.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfTransferencia.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfVentaCriptomoneda.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\App.g.cs
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\InterfazCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfBilleteraCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarComponentes.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarComponentesCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarContraseñaCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarDatosCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarEmailCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfEditarNombreCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfNuevaCriptomoneda.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfNuevoCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfRecibo.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfRedesSociales.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfSesionCreador.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfTransferencia.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\WpfVentaCriptomoneda.baml
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Entrega de trabajo parcial\Trabajo Parcial (Criptomoneda) [U201822524]\Código y Ejecutable\Solution Trabajo ParcialVer 1.1\Presentacion\obj\Debug\Presentacion.pdb

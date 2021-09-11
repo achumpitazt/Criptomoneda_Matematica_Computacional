@@ -1,0 +1,42 @@
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Negocio.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Negocio.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Datos.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Entidades.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Datos.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Entidades.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Negocio.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Negocio.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Datos.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Entidades.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Datos.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Negocio.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Negocio.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Datos.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Entidades.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Datos.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Negocio\bin\Debug\Entidades.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Negocio\obj\Debug\Negocio.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\bin\Debug\Negocio.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\bin\Debug\Datos.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\bin\Debug\Entidades.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\bin\Debug\Datos.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\bin\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\obj\Debug\Negocio.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,29 @@
+﻿<Window x:Class="Presentacion.WpfEditarNombreCreador"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="WpfEditarNombreCreador" Height="307.5" Width="443">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="1"/>
+                <GradientStop Color="#FFBED84B"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBox x:Name="txb_CodigoEspecial" HorizontalAlignment="Left" Height="23" Margin="192,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210"/>
+        <Button x:Name="btn_Continuar" Content="Continuar" HorizontalAlignment="Left" Margin="282,207,0,0" VerticalAlignment="Top" Width="101" Height="32" Click="btn_Continuar_Click"/>
+        <Label Content="Codigo Especial:" HorizontalAlignment="Left" Margin="56,31,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txb_NuevoNombre" HorizontalAlignment="Left" Height="22" Margin="192,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210"/>
+        <Label Content="Nuevo Nombre:" HorizontalAlignment="Left" Margin="57,75,0,0" VerticalAlignment="Top"/>
+        <Label Content="Contraseña:" HorizontalAlignment="Left" Margin="80,165,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txb_Contraseña" HorizontalAlignment="Left" Height="24" Margin="192,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210"/>
+        <Button x:Name="btn_Cancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="28,207,0,0" VerticalAlignment="Top" Width="100" Height="32" Click="btn_Cancelar_Click"/>
+        <Button x:Name="btn_Borrar" Content="Borrar" HorizontalAlignment="Left" Margin="159,207,0,0" VerticalAlignment="Top" Width="101" Height="32" Click="btn_Borrar_Click"/>
+        <Label Content="Apellido" HorizontalAlignment="Left" Margin="98,120,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txb_Apellido" HorizontalAlignment="Left" Height="23" Margin="192,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210"/>
+
+    </Grid>
+</Window>

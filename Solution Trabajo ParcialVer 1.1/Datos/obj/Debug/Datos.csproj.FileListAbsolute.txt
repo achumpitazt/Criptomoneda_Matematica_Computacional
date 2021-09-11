@@ -1,0 +1,34 @@
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Datos.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Datos.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Entidades.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Entidades.pdb
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.dll
+C:\Users\pc5\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Datos.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Datos.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Entidades.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.dll
+C:\Users\pc01\Desktop\UPC 2020-1\Matemática Computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Datos.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Datos.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Entidades.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Datos\bin\Debug\Entidades.pdb
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.dll
+D:\Final mate computacional\Solution Trabajo ParcialVer 1.0\Datos\obj\Debug\Datos.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Datos\bin\Debug\Datos.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Datos\bin\Debug\Datos.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Datos\bin\Debug\Entidades.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Datos\bin\Debug\Entidades.pdb
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Datos\obj\Debug\Datos.dll
+C:\Users\pc01\Desktop\Solution Trabajo ParcialVer 1.1\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="Presentacion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="272" Width="800">
+    <Grid Margin="0,0,2,-8">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="1"/>
+                <GradientStop Color="#FFBED84B" Offset="0.163"/>
+                <GradientStop Color="#FF4E1B1B" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="btn_RedesSociales" Content="Mirar redes sociales" HorizontalAlignment="Left" Margin="54,167,0,0" VerticalAlignment="Top" Width="171" Height="32" Click="btn_SesionInversionista_Click"/>
+        <Button x:Name="btn_SesionCreador" Content="¡Invierta en una criptomoneda!" HorizontalAlignment="Left" Margin="582,167,0,0" VerticalAlignment="Top" Width="171" Height="32" Click="btn_SesionCreador_Click"/>
+        <Label Content="Simulador de creación e inversión de criptomonedas" HorizontalAlignment="Left" Margin="537,204,0,0" VerticalAlignment="Top" Width="253" FontSize="10"/>
+        <Label Content="Bienvenido a &quot;Tu búsqueda&quot; . Un navegador para trabajos u ocio." HorizontalAlignment="Left" Margin="47,30,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

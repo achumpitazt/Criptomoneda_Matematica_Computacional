@@ -1,0 +1,31 @@
+﻿<Window x:Class="Presentacion.WpfNuevoCreador"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="WpfNuevoCreador" Height="450" Width="746.429">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="1"/>
+                <GradientStop Color="#FFBED84B"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="btn_PaginaAnterior" Content="Página Anterior" HorizontalAlignment="Left" Margin="46,314,0,0" VerticalAlignment="Top" Width="152" Height="32" Click="btn_PaginaAnterior_Click"/>
+        <Button x:Name="btn_Borrar" Content="Borrar Todo" HorizontalAlignment="Left" Margin="312,314,0,0" VerticalAlignment="Top" Width="132" Height="32" Click="btn_Borrar_Click"/>
+        <Button x:Name="btn_CrearCreador" Content="Crear Cuenta" HorizontalAlignment="Left" Margin="540,314,0,0" VerticalAlignment="Top" Width="112" Height="33" Click="btn_CrearCreador_Click"/>
+        <TextBox x:Name="txb_Nombre" HorizontalAlignment="Left" Height="23" Margin="214,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="438"/>
+        <TextBox x:Name="txb_Apellido" HorizontalAlignment="Left" Height="23" Margin="214,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="438"/>
+        <TextBox x:Name="txb_Email" HorizontalAlignment="Left" Height="23" Margin="214,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="438"/>
+        <TextBox x:Name="txb_Contraseña" HorizontalAlignment="Left" Height="23" Margin="214,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="438"/>
+        <TextBox x:Name="txb_ConfirmarContraseña" HorizontalAlignment="Left" Height="23" Margin="214,216,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="438"/>
+        <Label Content="Ingrese su Nombre:" HorizontalAlignment="Left" Margin="46,45,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ingrese su Apellido:" HorizontalAlignment="Left" Margin="46,87,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ingrese su Email:" HorizontalAlignment="Left" Margin="46,127,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ingrese una Contraseña:" HorizontalAlignment="Left" Margin="46,171,0,0" VerticalAlignment="Top"/>
+        <Label Content="Confirmar contraseña:" HorizontalAlignment="Left" Margin="46,216,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
